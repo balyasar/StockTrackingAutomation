@@ -33,7 +33,7 @@ npm -v # should print `10.8.2`
     Uygulamanızı TypeScript ile kurmak için TSX
 
 ```bash
-    npx create-react-app yeni-uygulama --template typescript
+    npx create-react-app stock-automation --template typescript
 ```
 
 ## Uygulamayı başlatmak
